@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assignment</string>
+
+    <string-array name="zipdoc">
+        <item>https://search.pstatic.net/sunny/?src=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FPurple124%2Fv4%2Fd9%2Fbd%2F8e%2Fd9bd8e37-db8b-7a22-ab51-ef9766fb24b7%2Fsource%2F512x512bb.jpg</item>
+        <item>https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTA2MTlfMTQ3%2FMDAxNTYwOTMwMzU4NTU2.mHfZ7Xqqx2kM5WZzj2Ca6uPLUP40hN35mOoXdwpcNrog.VbRIAHpgGE5kF8b2XeR-JDpiYTrgYyAGEfAHIEzZ73Ug.JPEG.gjlovese09%2F10.jpg</item>
+        <item>https://search.pstatic.net/common/?src=http%3A%2F%2Fimgnews.naver.net%2Fimage%2F5040%2F2019%2F05%2F03%2F20190503090519005408a55064dd16133192199_20190503090604635.jpg</item>
+        <item>https://search.pstatic.net/common/?src=http%3A%2F%2Fcafefiles.naver.net%2FMjAxOTAzMjRfMTk2%2FMDAxNTUzMzk1NjQxMzU2.0a_tvknzdvFVurBp_58QWQwxcg3G4-7oxr4wQOkPV3wg.CC5RZ7a2bM8e66-_Bk7MMAflb4S-ntsd9DDNtkHyT50g.JPEG.a6275023%2FexternalFile.jpg</item>
+        <item>https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA2MDhfMTgx%2FMDAxNjIzMTE1MTI1MzIy.cHFg8Jt6jvX6vbFdBIHlycjCVKPM1caXkG4ONukjslgg.yzplTuFsUwEZSvZNcKssmAbEOy1bmsWMRjYSppG0QQUg.PNG.pgy8881021%2F14.png</item>
+    </string-array>
+
+</resources>
