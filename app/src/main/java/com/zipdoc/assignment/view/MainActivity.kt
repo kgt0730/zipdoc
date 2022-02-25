@@ -11,6 +11,10 @@ import com.zipdoc.assignment.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
+    /*
+    * 테스트중
+    * */
+
     lateinit var activityMainBinding: ActivityMainBinding
 
     lateinit var imgList: Array<String>
