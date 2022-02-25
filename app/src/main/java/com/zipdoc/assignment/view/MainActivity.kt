@@ -12,7 +12,7 @@ import com.zipdoc.assignment.databinding.ActivityMainBinding
 class MainActivity : AppCompatActivity() {
 
     /*
-    * 테스트중
+    * 테스트중 1111111
     * */
 
     lateinit var activityMainBinding: ActivityMainBinding
